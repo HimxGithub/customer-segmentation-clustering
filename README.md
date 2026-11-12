@@ -51,4 +51,4 @@ Pendekatan pemasaran secara massal sering kali kurang efektif karena perbedaan d
 ---
 
 ## Penulis
-* Arr**Arrahim** — Mahasiswa S1 Sains Data, Universitas Terbuka
+**Arrahim** — Mahasiswa S1 Sains Data, Universitas Terbuka
